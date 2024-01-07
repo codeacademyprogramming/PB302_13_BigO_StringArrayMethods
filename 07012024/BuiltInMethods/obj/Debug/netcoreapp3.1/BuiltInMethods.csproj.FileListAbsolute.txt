@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.exe
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.deps.json
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.dll
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\bin\Debug\netcoreapp3.1\BuiltInMethods.pdb
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.dll
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.pdb
+C:\Users\elchin\Desktop\CodeLessons\13. 30-12-2023\07012024\BuiltInMethods\obj\Debug\netcoreapp3.1\BuiltInMethods.genruntimeconfig.cache
